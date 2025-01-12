@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZE_Bin_Extract", "ZE_Bin_Extract\ZE_Bin_Extract.csproj", "{692EAE20-A54F-48F2-BA7E-BD6E636AD947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692EAE20-A54F-48F2-BA7E-BD6E636AD947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692EAE20-A54F-48F2-BA7E-BD6E636AD947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692EAE20-A54F-48F2-BA7E-BD6E636AD947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692EAE20-A54F-48F2-BA7E-BD6E636AD947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA5BB45-55E9-4205-A44A-FD1FE970DF92}
+	EndGlobalSection
+EndGlobal
